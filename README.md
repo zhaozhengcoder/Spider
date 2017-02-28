@@ -17,5 +17,5 @@
 	1. 解决编码问题    
 	2. 以结构化的数据保存到数据库
 
-###2 python 实现一个简单的mini shell
+###3 python 实现一个简单的mini shell
 #####代码分析的链接 http://www.jianshu.com/p/30bac36a7651
